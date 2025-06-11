@@ -1,11 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  output: "standalone",
-  trailingSlash: true,
-  images: {
-    unoptimized: true,
-  },
+  // 기본 설정만 사용
 };
 
 export default nextConfig;
