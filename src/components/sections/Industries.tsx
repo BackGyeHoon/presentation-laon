@@ -5,7 +5,7 @@ import {
   Smartphone,
   Car,
   Truck,
-  Factory,
+  // Factory,
   Pill,
   Stethoscope,
   Navigation,

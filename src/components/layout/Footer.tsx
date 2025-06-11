@@ -35,13 +35,13 @@ export default function Footer() {
     { title: "Laon Swingcraft", href: "#products" },
   ];
 
-  const company = [
-    { title: "회사소개", href: "#about" },
-    { title: "연혁", href: "/history" },
-    { title: "파트너/고객사", href: "/partners" },
-    { title: "특허, 인증 및 수상", href: "/achievements" },
-    { title: "채용안내", href: "/careers" },
-  ];
+  // const company = [
+  //   { title: "회사소개", href: "#about" },
+  //   { title: "연혁", href: "/history" },
+  //   { title: "파트너/고객사", href: "/partners" },
+  //   { title: "특허, 인증 및 수상", href: "/achievements" },
+  //   { title: "채용안내", href: "/careers" },
+  // ];
 
   const support = [
     { title: "제품문의", href: "#contact" },
